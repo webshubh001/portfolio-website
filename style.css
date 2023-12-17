@@ -105,8 +105,8 @@ header {
   animation-delay: 0.6s;
 }
 .home-img img {
-  width: 22rem;
-  height: 22rem;
+  width: 20rem;
+  height: 20rem;
   position: relative;
   top: -9rem;
   opacity: 0;
