@@ -587,6 +587,8 @@ header {
   .social-media a {
     height: 2rem;
     width: 2rem;
+    position: relative;
+    top: 21rem;
   }
   .home-img img {
     width: 22rem;
