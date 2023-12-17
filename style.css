@@ -284,6 +284,20 @@ header {
   gap: 20px;
   top: 5px;
 }
+.btnn {
+  display: inline-block;
+  padding: 0.7rem 0.8rem;
+  text-decoration: none;
+  background-color: #0ef;
+  border-radius: 4rem;
+  box-shadow: 0 0 1rem #0ef;
+  color: #1f242d;
+  letter-spacing: 0.1rem;
+  font-weight: 600;
+  opacity: 0;
+  animation: slidetop 0.5s ease forwards;
+  animation-delay: 2s;
+}
 
 #space {
   padding-left: 1rem;
@@ -539,6 +553,8 @@ header {
 
   #menu-icon {
     display: block;
+     position: relative;
+    left: -13rem;
   }
 
   .navbar {
@@ -614,4 +630,7 @@ header {
     position: relative;
     top: 20rem;
   }
-}
+  .about-content .btnn {
+    position: relative;
+    top: 3rem;
+  }
