@@ -587,31 +587,7 @@ header {
   .social-media a {
     height: 2rem;
     width: 2rem;
-    position: relative;
-    top: 21rem;
+    
   }
-  .home-img img {
-    width: 22rem;
-    height: 22rem;
-    position: relative;
-    top: -2rem;
-    left: -27rem;
-  }
-  .home {
-    top: -13rem;
-  }
-  .home-content h3:nth-of-type(2) {
-    margin-bottom: 28rem;
-  }
-
-  .home-content p:nth-of-type(1) {
-    margin-bottom: -21rem;
-  }
-  .home-content p {
-    width: 32rem;
-  }
-  .btn {
-    position: relative;
-    top: 20rem;
-  }
+ 
 }
